@@ -1,2 +1,5 @@
 print("addition",5+6)
 print("multiplication",5*6)
+print("division",a/b)
+print("substraction of two numbers is :",a-b)
+print("integer division",a/b)
